@@ -22,6 +22,8 @@ return {
 				"lua-language-server",
 				"stylua",
 				"gofumpt",
+				"rustfmt",
+				"clang_format",
 			},
 		},
 	},
