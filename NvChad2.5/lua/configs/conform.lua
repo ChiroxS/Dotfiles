@@ -3,7 +3,7 @@ local options = {
 		lua = { "stylua" },
 		go = { "gofumpt" },
 		rust = { "rustfmt" },
-		c = { "clang_format" },
+		swift = { "swiftformat" },
 	},
 
 	format_on_save = {

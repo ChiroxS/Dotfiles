@@ -23,7 +23,6 @@ return {
 				"stylua",
 				"gofumpt",
 				"rustfmt",
-				"clang_format",
 			},
 		},
 	},
