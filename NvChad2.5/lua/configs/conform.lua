@@ -4,6 +4,7 @@ local options = {
 		go = { "gofumpt" },
 		rust = { "rustfmt" },
 		swift = { "swiftformat" },
+		c = { "clang_format" },
 	},
 
 	format_on_save = {
