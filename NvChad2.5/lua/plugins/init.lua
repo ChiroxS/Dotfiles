@@ -16,6 +16,14 @@ return {
 	},
 
 	{
+		"mfussenegger/nvim-lint",
+		event = "BufWritePre",
+		config = function()
+			require("configs.lint")
+		end,
+	},
+
+	{
 		"williamboman/mason.nvim",
 		opts = {
 			ensure_installed = {
