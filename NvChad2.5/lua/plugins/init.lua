@@ -23,6 +23,10 @@ return {
 			require("configs.lspconfig")
 		end,
 	},
+	-- DAP
+	{
+		"mfussenegger/nvim-dap",
+	},
 	-- Package manager
 	{
 		"williamboman/mason.nvim",
