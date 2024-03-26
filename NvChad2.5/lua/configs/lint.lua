@@ -14,7 +14,6 @@ vim.api.nvim_create_autocmd({ "BufWritePost" }, {
 	end,
 })
 
-local ns = require("lint").get_namespace("swiftlint")
 vim.diagnostic.config({
 	virtual_text = false,
-}, ns)
+})

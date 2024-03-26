@@ -1,4 +1,5 @@
 return {
+	-- Formatter
 	{
 		"stevearc/conform.nvim",
 		event = "BufWritePre",
@@ -6,15 +7,7 @@ return {
 			require("configs.conform")
 		end,
 	},
-
-	{
-		"neovim/nvim-lspconfig",
-		config = function()
-			require("nvchad.configs.lspconfig").defaults()
-			require("configs.lspconfig")
-		end,
-	},
-
+	-- Linter
 	{
 		"mfussenegger/nvim-lint",
 		event = "BufWritePre",
@@ -22,7 +15,15 @@ return {
 			require("configs.lint")
 		end,
 	},
-
+	-- LSP config
+	{
+		"neovim/nvim-lspconfig",
+		config = function()
+			require("nvchad.configs.lspconfig").defaults()
+			require("configs.lspconfig")
+		end,
+	},
+	-- Package manager
 	{
 		"williamboman/mason.nvim",
 		opts = {
@@ -33,7 +34,7 @@ return {
 			},
 		},
 	},
-
+	-- Treesitter
 	{
 		"nvim-treesitter/nvim-treesitter",
 		opts = {
