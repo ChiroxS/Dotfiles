@@ -21,3 +21,15 @@ lspconfig.rust_analyzer.setup({
 	on_init = on_init,
 	capabilities = capabilities,
 })
+-- go
+lspconfig.gopls.setup({
+	on_attach = on_attach,
+	on_init = on_init,
+	capabilities = capabilities,
+})
+-- swift
+lspconfig.sourcekit.setup({
+	on_attach = on_attach,
+	on_init = on_init,
+	capabilities = capabilities,
+})

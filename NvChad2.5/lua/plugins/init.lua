@@ -35,6 +35,7 @@ return {
 				"lua-language-server",
 				"stylua",
 				"gofumpt",
+				"gopls",
 			},
 		},
 	},
