@@ -12,3 +12,7 @@ map("i", "jk", "<ESC>")
 map("n", "<leader>tr", function()
 	require("base46").toggle_transparency()
 end, { desc = "Toggle transparency" })
+
+map("n", "<leader>mv", function()
+	require("mpv").toggle_player()
+end, { desc = "Toggle Music Player" })

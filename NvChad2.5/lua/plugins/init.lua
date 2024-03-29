@@ -54,4 +54,11 @@ return {
 			},
 		},
 	},
+	-- mpv
+	{
+		"tamton-aquib/mpv.nvim",
+		config = function()
+			require("configs.mpv")
+		end,
+	},
 }
