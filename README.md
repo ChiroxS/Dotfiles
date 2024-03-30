@@ -3,7 +3,7 @@ Config files I use for my macOS setup
 
 ## Shell setup
 - Terminal emulator - [iTerm2](https://iterm2.com)
-- Font - [JetBrains Mono Nerd Font]()
+- Font - [JetBrains Mono Nerd Font](https://www.jetbrains.com/lp/mono/)
 - Shell - [zsh](https://www.zsh.org)
   - framework - [ohmyzsh](https://ohmyz.sh) (plugins: git, autocomplete, syntax highlighting) 
   - prompt - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
