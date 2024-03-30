@@ -23,7 +23,7 @@ dashboard.setup({
 		header = ogre,
 		center = {
 			{
-				icon = "   ",
+				icon = "    ",
 				desc = "New file",
 				key = "n",
 				keymap = "",
@@ -31,7 +31,7 @@ dashboard.setup({
 				action = "ene",
 			},
 			{
-				icon = "   ",
+				icon = " 󰈢   ",
 				desc = "Open file",
 				key = "f",
 				keymap = "",
@@ -39,7 +39,7 @@ dashboard.setup({
 				action = "Telescope find_files",
 			},
 			{
-				icon = "   ",
+				icon = " 󱋡   ",
 				desc = "Recent files",
 				key = "r",
 				keymap = "",
@@ -47,7 +47,7 @@ dashboard.setup({
 				action = "Telescope oldfiles",
 			},
 			{
-				icon = "   ",
+				icon = " 󰍉   ",
 				desc = "Find text",
 				key = "t",
 				keymap = "",
@@ -55,7 +55,7 @@ dashboard.setup({
 				action = "Telescope live_grep",
 			},
 			{
-				icon = "   ",
+				icon = " 󰒲   ",
 				desc = "Lazy",
 				key = "l",
 				keymap = "",
@@ -63,7 +63,7 @@ dashboard.setup({
 				action = "Lazy",
 			},
 			{
-				icon = "   ",
+				icon = " 󰏖   ",
 				desc = "Mason",
 				key = "m",
 				keymap = "",
@@ -71,7 +71,7 @@ dashboard.setup({
 				action = "Mason",
 			},
 			{
-				icon = "   ",
+				icon = " 󰗼   ",
 				desc = "Quit",
 				key = "q",
 				keymap = "",
