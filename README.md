@@ -42,7 +42,7 @@ Config files I use for my macOS setup
 ### Highlighting 
 <img width="1310" alt="Screenshot 2024-03-30 at 12 44 29" src="https://github.com/ChiroxS/Dotfiles/assets/52329150/46cf50d1-599b-4e76-8ba7-eaa7a17ce79b">
 
-### Telescope 
+### File browsing 
 <img width="1312" alt="Screenshot 2024-03-30 at 12 29 42" src="https://github.com/ChiroxS/Dotfiles/assets/52329150/28b32408-df59-46bd-b714-db500b4859ef">  
 
 
