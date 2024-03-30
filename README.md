@@ -27,6 +27,11 @@ Config files I use for my macOS setup
 - Theme - bearded_arc
 - Dashboard - dashboard.nvim
 
+### Highlighting 
+<img width="1310" alt="Screenshot 2024-03-30 at 12 44 29" src="https://github.com/ChiroxS/Dotfiles/assets/52329150/46cf50d1-599b-4e76-8ba7-eaa7a17ce79b">
 
+### Telescope 
 <img width="1312" alt="Screenshot 2024-03-30 at 12 29 42" src="https://github.com/ChiroxS/Dotfiles/assets/52329150/28b32408-df59-46bd-b714-db500b4859ef">  
+
+### Dashboard
 <img width="1312" alt="Screenshot 2024-03-30 at 12 00 07" src="https://github.com/ChiroxS/Dotfiles/assets/52329150/18e0f3a7-7dbc-4611-8162-9fd41dd7a4a9">
