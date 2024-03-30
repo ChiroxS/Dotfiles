@@ -1,6 +1,10 @@
 ## About 
 Config files I use for my macOS setup
 
+## Contents
+- Shell setup
+- Neovim setup 
+
 ## Shell setup
 - Terminal emulator - [iTerm2](https://iterm2.com)
 - Font - [JetBrains Mono Nerd Font](https://www.jetbrains.com/lp/mono/)
