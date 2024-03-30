@@ -34,7 +34,7 @@ dashboard.setup({
 				action = "ene",
 			},
 			{
-				icon = "󰈢",
+				icon = "",
 				icon_hl = "Character",
 				desc = "   Open file       ",
 				desc_hl = "Function",
@@ -56,7 +56,7 @@ dashboard.setup({
 				action = "Telescope oldfiles",
 			},
 			{
-				icon = "󰍉",
+				icon = "󱡴",
 				icon_hl = "Character",
 				desc = "   Find text       ",
 				desc_hl = "Function",
