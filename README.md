@@ -1,7 +1,7 @@
-# About 
+## About 
 Config files I use for my macOS setup
 
-# Contents 
+## Contents 
 - Shell setup
 - Neovim setup
 
