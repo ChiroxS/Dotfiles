@@ -24,14 +24,6 @@ dashboard.setup({
 		center = {
 			{
 				icon = "   ",
-				desc = "New file",
-				key = "n",
-				keymap = "",
-				key_format = " %s", -- remove default surrounding `[]`
-				action = "e new",
-			},
-			{
-				icon = "   ",
 				desc = "Open file",
 				key = "f",
 				keymap = "",
