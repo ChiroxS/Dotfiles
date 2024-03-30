@@ -12,3 +12,9 @@ vim.api.nvim_create_autocmd({ "BufEnter", "BufWinEnter" }, {
 	pattern = { "*.metal" },
 	command = "setfiletype metal",
 })
+
+require("ibl").overwrite({
+	exclude = {
+		filetypes = { "dashboard" },
+	},
+})

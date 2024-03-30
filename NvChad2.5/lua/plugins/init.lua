@@ -61,4 +61,13 @@ return {
 			require("configs.mpv")
 		end,
 	},
+	-- dashboard
+	{
+		"nvimdev/dashboard-nvim",
+		event = "VimEnter",
+		config = function()
+			require("configs.dashboard")
+		end,
+		dependencies = { { "nvim-tree/nvim-web-devicons" } },
+	},
 }
