@@ -15,6 +15,7 @@ Config files I use for my macOS setup
 - Tools:
   - [eza](https://github.com/eza-community/eza) (ls)
   - [bat](https://github.com/sharkdp/bat) (cat)
+  - [fzf](https://github.com/junegunn/fzf)
   - [ranger](https://github.com/ranger/ranger)
   - [btop](https://github.com/aristocratos/btop)
 
