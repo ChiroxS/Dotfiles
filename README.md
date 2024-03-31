@@ -13,7 +13,7 @@ Config files I use for my macOS setup
   - prompt - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - Package manager - [brew](https://brew.sh)
 - Tools:
-  - [exa](https://the.exa.website) (ls)
+  - [eza](https://github.com/eza-community/eza) (ls)
   - [bat](https://github.com/sharkdp/bat) (cat)
   - [ranger](https://github.com/ranger/ranger)
   - [btop](https://github.com/aristocratos/btop)
