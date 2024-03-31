@@ -114,7 +114,10 @@ alias nvconfig="cd ~/.config/nvim/"
 alias v="nvim"
 
 
-alias ls="exa -alh"
+alias ls="eza -alh --total-size --no-permissions --icons=always"
+alias lss="ls -s=size -r"
+alias lst="ls -T"
+
 alias cat="bat"
 
 alias night="shortcuts run NightModeOn"
